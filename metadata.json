@@ -1,0 +1,8 @@
+{
+  "name": "glowing-computing-machine",
+  "description": "An interactive computing machine and retro-futuristic simulation engine with glowing vacuum tube and phosphor displays.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
